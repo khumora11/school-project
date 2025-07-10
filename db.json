@@ -1,0 +1,147 @@
+{
+  "messages": [
+    {
+      "id": "8382",
+      "name": "qweer",
+      "email": "teamsoft1314@gmail.com",
+      "message": "dsavsa"
+    }
+  ],
+  "cards": [
+    {
+      "id": "01",
+      "image": "/src/assets/teachers/image.png"
+    },
+    {
+      "id": "03",
+      "image": "/src/assets/teachers/image copy 2.png"
+    },
+    {
+      "id": "04",
+      "image": "/src/assets/teachers/image copy 3.png"
+    },
+    {
+      "id": "05",
+      "image": "/src/assets/teachers/image copy 4.png"
+    },
+    {
+      "id": "06",
+      "image": "/src/assets/teachers/image copy 5.png"
+    },
+    {
+      "id": "07",
+      "image": "/src/assets/teachers/image copy 6.png"
+    },
+    {
+      "id": "08",
+      "image": "/src/assets/teachers/image copy 7.png"
+    },
+    {
+      "id": "09",
+      "image": "/src/assets/teachers/image copy 8.png"
+    }
+  ],
+  "card": [
+    {
+      "id": "01",
+      "image": "/src/assets/pupils/image.png"
+    },
+    {
+      "id": "02",
+      "image": "/src/assets/pupils/image copy.png"
+    },
+    {
+      "id": "03",
+      "image": "/src/assets/pupils/image copy 9.png"
+    },
+    {
+      "id": "04",
+      "image": "/src/assets/pupils/image copy 2.png"
+    },
+    {
+      "id": "05",
+      "image": "/src/assets/pupils/image copy 3.png"
+    },
+    {
+      "id": "06",
+      "image": "/src/assets/pupils/image copy 4.png"
+    },
+    {
+      "id": "07",
+      "image": "/src/assets/pupils/image copy 5.png"
+    },
+    {
+      "id": "648d",
+      "title": "",
+      "category": "All",
+      "type": "",
+      "description": "",
+      "price": "",
+      "image": "ad"
+    }
+  ],
+  "news": [
+    {
+      "id": "01",
+      "title": "HURMATLI ZAMONAVIY INNOVATOR O‘QITUVCHILAR!",
+      "text": "Kelajak avlod tarbiyasida innovatsion yondashuvni qo‘llang! Ixtisoslashtirilgan maktablarga pedagoglarni ishga taklif etamiz. Hujjatlar qabuli: 1-iyuldan",
+      "link": "https://job.piima.uz/",
+      "image": "/src/assets/news/image copy 3.png"
+    },
+    {
+      "id": "02",
+      "title": "AGENTLIK TIZIMIDAGI IXTISOSLASHTIRILGAN MAKTABLARGA ARIZA TOPSHIRGAN TALABGORLAR DIQQATIGA!",
+      "text": "Ushbu maktablarga kvota doirasida kirish imtihonlari bir bosqichda, aniq fanlar yo‘nalishi bo‘yicha 5–10-sinflarga, tabiiy fanlar yo‘nalishi bo‘yicha 7–10-sinflarga o‘tkaziladi.",
+      "link": "https://ariza.piima.uz/application/cabinet",
+      "image": "/src/assets/news/image copy 4.png"
+    },
+    {
+      "id": "03",
+      "title": " IXTISOSLASHTIRILGAN TA’LIM MUASSASALARI AGENTLIGI TIZIMIDAGI",
+      "text": "Prezident maktablariga; ➖ Ijod maktablariga; ➖ Sport maktablariga;➖ Ixtisoslashtirilgan maktablarga 2025/2026-o‘quv yili uchun hujjat topshirish muddati tugashiga 3 kun qoldi. ",
+      "link": "https://ariza.piima.uz/application/cabinet",
+      "image": "/src/assets/news/image.png"
+    },
+    {
+      "id": "04",
+      "title": "DIQQAT, TANLOV!",
+      "text": "❗️Hurmatli lider va tashabbuskor rahbarlar! Siz bilan kelajak innovatsion taʼlimini birgalikda quramiz! ‼️ Siz taʼlim tizimida yangilik va o‘zgarish qilishga tayyormisiz? Unda bu imkoniyat aynan siz uchun! ",
+      "link": "https://job2.piima.uz/",
+      "image": "/src/assets/news/image copy.png"
+    },
+    {
+      "id": "05",
+      "title": "🔔 DIQQAT, EʼLON!",
+      "text": "🤩 Ixtisoslashtirilgan taʼlim muassasalari agentligi tizimidagi Prezident, ijod, sport va ixtisoslashtirilgan maktablarga 2025/2026-o‘quv yili uchun hujjatlar qabuli boshlandi. 📆 Hujjatlar qabuli 20-iyunga qadar onlayn shaklda my.gov.uz hamda ariza.piima.uz sayti orqali amalga oshiriladi.",
+      "link": "https://ariza.piima.uz/application/main",
+      "image": "/src/assets/news/image copy 2.png"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "01",
+      "class": "5-01",
+      "lesson1": "Informatika",
+      "lesson2": "Tarix",
+      "lesson3": "Ona tili",
+      "lesson4": "Rus tili ",
+      "lesson5": "ingliz tili",
+      "lesson6": "jis tar ",
+      "lesson7": "matem"
+    },
+    {
+      "id": "1751453468813",
+      "title": "srth",
+      "class": "sth",
+      "description": "fdhn",
+      "image": "hgd",
+      "lesson1": "gfh",
+      "lesson2": "trsht",
+      "lesson3": "ftghsd",
+      "lesson4": "fhdb",
+      "lesson5": "fgdhd",
+      "lesson6": "fgh",
+      "lesson7": "fghd"
+    }
+  ]
+}
