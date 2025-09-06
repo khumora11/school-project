@@ -2,7 +2,6 @@ import Image from "../assets/about/image.png";
 import Image2 from "../assets/about/image copy.png";
 import Image3 from "../assets/about/image copy 2.png";
 import ImageSchool from "../assets/image copy.png"
-import Corusel from "../components/corusel/corusel";
 import Corusell from "../components/corusel/Corusel";
 
 const About = () => {
@@ -75,7 +74,6 @@ const About = () => {
         </div>
       </section>
     </div>
-    <Corusel/>
     <Corusell/>
               </>
   );
