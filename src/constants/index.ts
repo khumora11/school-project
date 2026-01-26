@@ -1,22 +1,60 @@
 
 export const navLink = [
-  { name: "Bosh sahifa", route: "/" },
+  { name: "home", route: "/" },
   {
-    name: "Biz haqimizda", route:"/about"
+    name: "about", route:"/about"
    
   },
-  { name: "Biz bilan bog'lanish", route: "/contact" },
+  { name: "contact", route: "/contact" },
   {
-    name: "Dars Jadvali", route:"/lessonTable"
+    name: "lesson", route:"/lessonTable"
    
   },
+
   {
-    name:"Yangiliklar", route:"/news"
+    name:"news", route:"/news"
   },
-  {name:"Yutuqlar", 
+  {name:"achievements", 
      dropdown: [
-      { name: "O'qituvchilar", route: "/Teachers" },
-      { name: "O'quvchilar", route: "/pupils" },
+      { name: "teachers", route: "/teachers" },
+      { name: "pupils", route: "/pupils" },
+    ],
+  },
+    {name:"books", 
+     dropdown: [
+      { name: "e-books", route: "/e-books" },
+      { name: "audio-books", route: "/audio-books" },
     ],
   }
 ];
+export const lngs = [
+  { route: "en", label: "English" },
+  { route: "uz", label: "O'zbekcha" },
+  { route: "ru", label: "Русский" },
+];
+
+
+export const Ebooks = [
+  {
+    id: 1,
+    title: "O‘tkan kunlar",
+    author: "Abdulla Qodiriy",
+    type: "ebook",
+    subject: "Adabiyot",
+    cover: "/images/otkan-kunlar.jpg",
+    file: "/ebooks/otkan-kunlar.pdf"
+  },
+
+];
+
+export const audioBooks=[
+    {
+    id: 1,
+    title: "Odam bo‘lish qiyin",
+    author: "O‘tkir Hoshimov",
+    type: "audiobook",
+    subject: "Adabiyot",
+    cover: "/images/odam-bolish.jpg",
+    file: "/audio/odam-bolish.mp3"
+  }
+]

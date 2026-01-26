@@ -43,10 +43,6 @@
   ],
   "card": [
     {
-      "id": "01",
-      "image": "/src/assets/pupils/image.png"
-    },
-    {
       "id": "02",
       "image": "/src/assets/pupils/image copy.png"
     },
@@ -128,20 +124,6 @@
       "lesson5": "ingliz tili",
       "lesson6": "jis tar ",
       "lesson7": "matem"
-    },
-    {
-      "id": "1751453468813",
-      "title": "srth",
-      "class": "sth",
-      "description": "fdhn",
-      "image": "hgd",
-      "lesson1": "gfh",
-      "lesson2": "trsht",
-      "lesson3": "ftghsd",
-      "lesson4": "fhdb",
-      "lesson5": "fgdhd",
-      "lesson6": "fgh",
-      "lesson7": "fghd"
     }
   ]
 }
